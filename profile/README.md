@@ -6,6 +6,9 @@ For documentation, please access this link [Link documentation - google docs.](h
 Back-end source code: [Back-end repository](https://github.com/vliam0206/table_reservation_system)
 ## Front-end Source Code
 Front-end source code: [Front-end repository](https://github.com/SWD392-Table-Reservation-System/front-end)
+## Demostration
+![recording](https://github.com/SWD392-Table-Reservation-System/front-end/blob/main/screenshot/record_01.gif?raw=true)
+[Youtube video here](https://youtu.be/FEPjHZIaEmY)
 ## Group 1 - Team member
 1. Võ Ngọc Trúc Lam
 2. Nguyễn Trung Thông
